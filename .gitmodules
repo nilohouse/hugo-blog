@@ -1,0 +1,3 @@
+[submodule "nilohouse/themes/coder"]
+	path = nilohouse/themes/coder
+	url = https://github.com/luizdepra/hugo-coder.git
