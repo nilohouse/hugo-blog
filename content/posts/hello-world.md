@@ -1,10 +1,10 @@
 +++ 
 draft = false
 date = 2018-06-17T10:41:59-03:00
-title = ""
-slug = "" 
+title = "Hello World"
+slug = "hello-world" 
 tags = []
 categories = []
 +++
 
-#Hello world
+Let's try this Hugo thing...
