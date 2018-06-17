@@ -1,4 +1,4 @@
-baseurl = "https://reverent-shirley-59194e.netlify.com" # Hostname (and path) to the root.
+baseurl = "https://nilohouse.netlify.com" # Hostname (and path) to the root.
 title = "nilohouse" # Site title.
 theme = "coder" # Set the theme.
 languagecode = "en" # The site’s language code.
