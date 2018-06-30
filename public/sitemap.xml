@@ -3,17 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>https://nilohouse.netlify.com/posts/hello-world/</loc>
+    <lastmod>2018-06-17T10:41:59-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nilohouse.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>https://nilohouse.netlify.com/posts/</loc>
+    <lastmod>2018-06-17T10:41:59-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/</loc>
+    <loc>https://nilohouse.netlify.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nilohouse.netlify.com/</loc>
+    <lastmod>2018-06-17T10:41:59-03:00</lastmod>
     <priority>0</priority>
   </url>
   
